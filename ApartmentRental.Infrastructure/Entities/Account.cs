@@ -1,4 +1,5 @@
-﻿namespace ApartmentRental.Core.Entities;
+﻿
+namespace ApartmentRental.Infrastructure.Entities;
 
 public class Account : BaseEntity
 {
